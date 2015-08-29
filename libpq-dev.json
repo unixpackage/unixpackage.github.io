@@ -1,0 +1,6 @@
+{
+    "arch": "postgresql-libs",
+    "baserpm": "postgresql-devel",
+    "macosbrew": "postgresql",
+    "basedeb": "libpq-dev"
+}
