@@ -2,5 +2,5 @@
     "basedeb": "curl",
     "arch": "curl",
     "baserpm": "curl",
-    "macosbrew": "curl",
+    "macosbrew": "curl"
 }

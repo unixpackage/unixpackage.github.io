@@ -2,5 +2,5 @@
     "basedeb": "libxml2-dev",
     "arch": "libxml2",
     "baserpm": "libxml2-devel",
-    "macosbrew": "libxml2",
+    "macosbrew": "libxml2"
 }

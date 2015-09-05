@@ -2,5 +2,5 @@
     "basedeb": "python3",
     "arch": "python3",
     "baserpm": "python3",
-    "macosbrew": "python3",
+    "macosbrew": "python3"
 }

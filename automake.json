@@ -2,5 +2,5 @@
     "basedeb": "automake",
     "arch": "automake",
     "baserpm": "automake",
-    "macosbrew": "automake",
+    "macosbrew": "automake"
 }

@@ -6,7 +6,7 @@
         "gcc-c++",
         "make",
         "automake",
-        "kernel-devel",
+        "kernel-devel"
     ],
     "macosbrew": null
 }

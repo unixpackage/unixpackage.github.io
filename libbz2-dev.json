@@ -2,5 +2,5 @@
     "basedeb": "libbz2-dev",
     "arch": "bzip2",
     "baserpm": "bzip2-libs",
-    "macosbrew": "bzip2",
+    "macosbrew": "bzip2"
 }

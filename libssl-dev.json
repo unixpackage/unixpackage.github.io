@@ -2,5 +2,5 @@
     "basedeb": "libssl-dev",
     "arch": "openssl",
     "baserpm": "openssl-devel",
-    "macosbrew": "openssl",
+    "macosbrew": "openssl"
 }
