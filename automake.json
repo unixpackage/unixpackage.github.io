@@ -1,0 +1,6 @@
+{
+    "basedeb": "automake",
+    "arch": "automake",
+    "baserpm": "automake",
+    "macosbrew": "automake",
+}

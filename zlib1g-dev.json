@@ -1,0 +1,6 @@
+{
+    "basedeb": "zlib1g-dev",
+    "arch": "zlib",
+    "baserpm": "zlib-devel",
+    "macosbrew": "zlib",
+}

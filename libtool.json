@@ -1,0 +1,6 @@
+{
+    "basedeb": "libtool",
+    "arch": "libtool",
+    "baserpm": "libtool",
+    "macosbrew": "libtool",
+}

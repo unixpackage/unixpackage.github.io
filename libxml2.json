@@ -1,0 +1,6 @@
+{
+    "basedeb": "libxml2",
+    "arch": "libxml2",
+    "baserpm": "libxml2",
+    "macosbrew": "libxml2",
+}

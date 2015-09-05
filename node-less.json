@@ -1,0 +1,6 @@
+{
+    "basedeb": "node-less",
+    "arch": "nodejs-less",
+    "baserpm": "nodejs-less",
+    "macosbrew": null,
+}

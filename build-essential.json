@@ -1,0 +1,12 @@
+{
+    "basedeb": "build-essential",
+    "arch": "base-devel",
+    "baserpm": [
+        "gcc",
+        "gcc-c++",
+        "make",
+        "automake",
+        "kernel-devel",
+    ],
+    "macosbrew": null
+}

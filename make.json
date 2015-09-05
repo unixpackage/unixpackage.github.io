@@ -1,0 +1,6 @@
+{
+    "basedeb": "make",
+    "arch": "make",
+    "baserpm": "make",
+    "macosbrew": "make",
+}

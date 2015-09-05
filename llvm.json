@@ -1,0 +1,6 @@
+{
+    "basedeb": "llvm",
+    "arch": "llvm",
+    "baserpm": "llvm",
+    "macosbrew": "llvm",
+}

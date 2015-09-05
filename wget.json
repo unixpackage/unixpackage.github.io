@@ -1,0 +1,6 @@
+{
+    "basedeb": "wget",
+    "arch": "wget",
+    "baserpm": "wget",
+    "macosbrew": "wget",
+}
