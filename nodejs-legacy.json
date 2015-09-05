@@ -1,0 +1,6 @@
+{
+    "basedeb": "nodejs-legacy",
+    "arch": "nodejs",
+    "baserpm": "nodejs",
+    "macosbrew": "node"
+}

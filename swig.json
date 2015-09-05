@@ -1,0 +1,6 @@
+{
+    "basedeb": "swig",
+    "arch": "swig",
+    "baserpm": "swig",
+    "macosbrew": "swig"
+}

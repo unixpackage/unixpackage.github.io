@@ -1,0 +1,6 @@
+{
+    "basedeb": "erlang-dev",
+    "arch": "erlang",
+    "baserpm": "erlang-devel",
+    "macosbrew": "erlang"
+}

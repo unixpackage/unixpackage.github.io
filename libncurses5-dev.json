@@ -1,0 +1,6 @@
+{
+    "basedeb": "libncurses5-dev",
+    "arch": "ncurses",
+    "baserpm": "libncurses5-devel",
+    "macosbrew": "ncurses"
+}

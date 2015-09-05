@@ -1,0 +1,6 @@
+{
+    "basedeb": "libjpeg-dev",
+    "arch": "libjpeg-turbo",
+    "baserpm": "libjpeg-turbo-devel",
+    "macosbrew": "jpeg-turbo"
+}

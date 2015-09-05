@@ -1,0 +1,6 @@
+{
+    "basedeb": "openssl",
+    "arch": "openssl",
+    "baserpm": "openssl",
+    "macosbrew": "openssl"
+}

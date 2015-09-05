@@ -1,0 +1,6 @@
+{
+    "basedeb": "libsasl2-dev",
+    "arch": "libsasl",
+    "baserpm": "libsasl2",
+    "macosbrew": null
+}

@@ -1,0 +1,6 @@
+{
+    "basedeb": "openjdk-7-jre",
+    "arch": "jre7-openjdk",
+    "baserpm": "java-1.7.0-openjdk",
+    "macosbrew": null
+}

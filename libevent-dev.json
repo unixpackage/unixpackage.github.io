@@ -1,0 +1,6 @@
+{
+    "basedeb": "libevent-dev",
+    "arch": "libevent",
+    "baserpm": "libevent-devel",
+    "macosbrew": "libevent"
+}

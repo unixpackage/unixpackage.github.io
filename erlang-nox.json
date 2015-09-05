@@ -1,0 +1,19 @@
+{
+    "basedeb": "erlang-nox",
+    "arch": "erlang-nox",
+    "baserpm": [
+        "erlang-eldap",
+        "erlang-erts",
+        "erlang-kernel",
+        "erlang-mnesia",
+        "erlang-os_mon",
+        "erlang-public_key",
+        "erlang-sasl",
+        "erlang-sd_notify",
+        "erlang-ssl",
+        "erlang-stdlib",
+        "erlang-tools",
+        "erlang-xmerl",
+    ],
+    "macosbrew": "erlang"
+}

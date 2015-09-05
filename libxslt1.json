@@ -1,0 +1,6 @@
+{
+    "basedeb": "libxslt1",
+    "arch": "libxslt",
+    "baserpm": "libxslt",
+    "macosbrew": "libxslt"
+}
