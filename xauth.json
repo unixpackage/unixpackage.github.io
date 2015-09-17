@@ -1,0 +1,6 @@
+{
+    "basedeb": "xauth",
+    "arch": "xorg-xauth",
+    "baserpm": "xorg-x11-xauth",
+    "macosbrew": null
+}

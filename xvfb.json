@@ -1,0 +1,6 @@
+{
+    "basedeb": "xvfb",
+    "arch": "xorg-server-xvfb",
+    "baserpm": "xorg-x11-server-Xvfb",
+    "macosbrew": null
+}

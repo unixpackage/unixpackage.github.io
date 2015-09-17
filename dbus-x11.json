@@ -1,0 +1,6 @@
+{
+    "basedeb": "dbus-x11",
+    "arch": "dbus",
+    "baserpm": "dbus-x11",
+    "macosbrew": "dbus-glib",
+}
