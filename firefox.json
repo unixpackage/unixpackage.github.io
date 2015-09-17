@@ -1,6 +1,7 @@
 {
     "debian": "iceweasel",
-    "arch": "firefox",
+    "ubuntu": "firefox",
+     "arch": "firefox",
     "baserpm": "firefox",
     "macosbrew": null
 }
