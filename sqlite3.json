@@ -1,0 +1,6 @@
+{
+    "basedeb": "sqlite3",
+    "arch": "sqlite3",
+    "baserpm": "sqlite3",
+    "macosbrew": "sqlite3"
+}
