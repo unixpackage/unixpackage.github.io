@@ -2,5 +2,5 @@
     "basedeb": "ca-certificates",
     "arch": "ca-certificates",
     "baserpm": "ca-certificates",
-    "macosbrew": null,
+    "macosbrew": null
 }
