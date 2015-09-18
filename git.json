@@ -1,0 +1,6 @@
+{
+    "basedeb": "git",
+    "arch": "git",
+    "baserpm": "git",
+    "macosbrew": "git"
+}
