@@ -1,6 +1,10 @@
 {
     "basedeb": "build-essential",
-    "arch": "base-devel",
+    "arch": [
+        "gcc",
+        "make",
+        "automake",
+    ],
     "baserpm": [
         "gcc",
         "gcc-c++",
