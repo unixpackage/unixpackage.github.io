@@ -7,9 +7,10 @@ Pull requests all very welcome.
 Package Archives
 ================
 
-You can look up equivalent packages on the following websites:
+You can search for equivalent packages on the following websites:
 
-* https://www.archlinux.org/packages/
-* http://rpmfind.net/
-* http://searchbrew.com/
-* http://braumeister.org/
+* Ubuntu: http://packages.ubuntu.com/
+* Arch: https://www.archlinux.org/packages/
+* Fedora/CentOS/Red Hat: http://rpmfind.net/
+* Mac OS Brew: http://searchbrew.com/
+* Mac OS Brew: http://braumeister.org/
