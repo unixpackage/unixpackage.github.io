@@ -3,7 +3,7 @@
     "arch": [
         "gcc",
         "make",
-        "automake",
+        "automake"
     ],
     "baserpm": [
         "gcc",
