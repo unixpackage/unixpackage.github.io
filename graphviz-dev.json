@@ -1,0 +1,6 @@
+{
+    "basedeb": "graphviz-dev",
+    "arch": "graphviz",
+    "baserpm": "graphviz-devel",
+    "macosbrew": "graphviz"
+}
