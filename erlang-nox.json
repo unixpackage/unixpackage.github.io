@@ -13,7 +13,7 @@
         "erlang-ssl",
         "erlang-stdlib",
         "erlang-tools",
-        "erlang-xmerl",
+        "erlang-xmerl"
     ],
     "macosbrew": "erlang"
 }
