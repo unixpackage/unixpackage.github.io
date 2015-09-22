@@ -1,0 +1,6 @@
+{
+    "basedeb": "liblcms1-dev",
+    "arch": "lcms",
+    "baserpm": "lcms-devel",
+    "macosbrew": "little-cms"
+}
