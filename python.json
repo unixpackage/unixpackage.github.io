@@ -1,6 +1,6 @@
 {
     "basedeb": "python",
-    "arch": "python2",
+    "arch": "python",
     "baserpm": "python",
     "macosbrew": "python"
 }
