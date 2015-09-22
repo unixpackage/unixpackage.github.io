@@ -1,0 +1,6 @@
+{
+    "basedeb": "python3-dev",
+    "arch": "python",
+    "baserpm": "python3-devel",
+    "macosbrew": "python3"
+}
