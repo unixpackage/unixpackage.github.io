@@ -1,0 +1,6 @@
+{
+    "basedeb": "libwebp-dev",
+    "arch": "libwebp",
+    "baserpm": "libwebp-devel",
+    "macosbrew": "webp"
+}
