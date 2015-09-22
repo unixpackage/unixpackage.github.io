@@ -1,0 +1,6 @@
+{
+    "basedeb": "python-setuptools",
+    "arch": "python-setuptools",
+    "baserpm": "python-setuptools",
+    "macosbrew": "python"
+}
