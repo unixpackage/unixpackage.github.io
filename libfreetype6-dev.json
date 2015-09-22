@@ -1,0 +1,6 @@
+{
+    "basedeb": "libfreetype6-dev",
+    "arch": "freetype2",
+    "baserpm": "libfreetype-devel",
+    "macosbrew": "freetype"
+}
