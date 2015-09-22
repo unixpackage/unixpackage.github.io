@@ -1,0 +1,6 @@
+{
+    "basedeb": "gettext",
+    "arch": "gettext",
+    "baserpm": "gettext",
+    "macosbrew": "gettext"
+}
