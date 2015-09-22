@@ -1,0 +1,6 @@
+{
+    "basedeb": "python-virtualenv",
+    "arch": "python-virtualenv",
+    "baserpm": "python-virtualenv",
+    "macosbrew": null
+}
