@@ -1,0 +1,6 @@
+{
+    "basedeb": "python-pip",
+    "arch": "python-pip",
+    "baserpm": "python-pip",
+    "macosbrew": null
+}
