@@ -1,0 +1,6 @@
+{
+    "basedeb": "libtiff4-dev",
+    "arch": "libtiff",
+    "baserpm": "libtiff-devel",
+    "macosbrew": "libtiff"
+}
