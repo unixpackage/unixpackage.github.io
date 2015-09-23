@@ -1,6 +1,6 @@
 {
     "basedeb": "libreadline6",
     "arch": "readline",
-    "baserpm": "libreadline6",
+    "baserpm": "readline",
     "macosbrew": "readline"
 }
