@@ -1,0 +1,6 @@
+{
+    "basedeb": "patch",
+    "arch": "patch",
+    "baserpm": "patch",
+    "macosbrew": null
+}
