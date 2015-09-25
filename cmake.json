@@ -1,0 +1,6 @@
+{
+    "basedeb": "cmake",
+    "arch": "cmake",
+    "baserpm": "cmake",
+    "macosbrew": "cmake"
+}
