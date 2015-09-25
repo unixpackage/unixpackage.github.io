@@ -1,0 +1,6 @@
+{
+    "basedeb": "libmysqlclient-dev",
+    "arch": "mysql-connector-c++",
+    "baserpm": "mysql-devel",
+    "macosbrew": "mysql",
+}
