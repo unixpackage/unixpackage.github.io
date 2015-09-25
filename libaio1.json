@@ -1,0 +1,6 @@
+{
+    "basedeb": "libaio1",
+    "arch": "libaio",
+    "baserpm": "libaio",
+    "macosbrew": null
+}
