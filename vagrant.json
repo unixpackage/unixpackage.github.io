@@ -1,0 +1,6 @@
+{
+    "basedeb": "vagrant",
+    "arch": "vagrant",
+    "baserpm": "vagrant",
+    "macosbrew": null
+}
