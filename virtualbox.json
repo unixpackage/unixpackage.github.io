@@ -1,0 +1,6 @@
+{
+    "basedeb": "virtualbox",
+    "arch": "virtualbox",
+    "baserpm": "virtualbox",
+    "macosbrew": null
+}
