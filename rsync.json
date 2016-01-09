@@ -1,0 +1,6 @@
+{
+    "basedeb": "rsync",
+    "arch": "rsync",
+    "baserpm": "rsync",
+    "macosbrew": "rsync"
+}
