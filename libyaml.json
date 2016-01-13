@@ -1,0 +1,6 @@
+{
+    "arch": "libyaml",
+    "baserpm": "libyaml-devel",
+    "macosbrew": "libyaml",
+    "basedeb": "libyaml-dev"
+}
