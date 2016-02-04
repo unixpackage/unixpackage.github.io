@@ -1,0 +1,8 @@
+{
+    "basedeb": "libtiff4-dev",
+    "ubuntu-wily": "libtiff5-dev",
+    "ubuntu-trusty": "libtiff4-dev",
+    "arch": "libtiff",
+    "baserpm": "libtiff-devel",
+    "macosbrew": "libtiff"
+}
