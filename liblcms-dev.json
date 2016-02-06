@@ -1,0 +1,17 @@
+{
+    "basedeb": "liblcms1-dev",
+    "ubuntu-trusty": "liblcms1-dev",
+    "ubuntu-precise": "liblcms1-dev",
+    "ubuntu-precise-updates": "liblcms2-dev",
+    "ubuntu-vivid": "liblcms2-dev",
+    "ubuntu-wily": "liblcms2-dev",
+    "ubuntu-xenial": "liblcms2-dev",
+    "debian-squeeze": "liblcms1-dev",
+    "debian-wheezy": "liblcms2-dev",
+    "debian-jessie": "liblcms2-dev",
+    "debian-stretch": "liblcms2-dev",
+    "debian-sid": "liblcms2-dev",
+    "arch": "lcms",
+    "baserpm": "lcms-devel",
+    "macosbrew": "little-cms"
+}
