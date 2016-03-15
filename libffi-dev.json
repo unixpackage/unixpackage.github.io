@@ -1,0 +1,6 @@
+{
+    "basedeb": "libffi-dev",
+    "arch": "libffi",
+    "baserpm": "libffi-devel",
+    "macosbrew": "libffi"
+}

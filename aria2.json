@@ -1,0 +1,6 @@
+{
+    "basedeb": "aria2",
+    "arch": "aria2",
+    "baserpm": "aria2",
+    "macosbrew": "aria2"
+}
