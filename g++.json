@@ -1,0 +1,6 @@
+{
+    "basedeb": "g++",
+    "arch": "gcc",
+    "baserpm": "gcc-c++",
+    "macosbrew": null
+}

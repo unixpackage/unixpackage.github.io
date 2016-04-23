@@ -1,0 +1,6 @@
+{
+    "basedeb": "libzmq3",
+    "arch": "zeromq",
+    "baserpm": "libzmq3",
+    "macosbrew": "zeromq"
+}
