@@ -1,0 +1,5 @@
+{
+    "basedeb": "telnet",
+    "arch": "telnet",
+    "baserpm": "telnet"
+}
