@@ -1,0 +1,5 @@
+{
+    "basedeb": "lsof",
+    "arch": "lsof",
+    "baserpm": "lsof"
+}
