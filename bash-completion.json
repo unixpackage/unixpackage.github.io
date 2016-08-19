@@ -1,0 +1,6 @@
+{
+    "basedeb": "bash-completion",
+    "arch": "bash-completion",
+    "baserpm": "bash-completion",
+    "macosbrew": "bash-completion"
+}
