@@ -1,0 +1,6 @@
+{
+    "basedeb": "hdparm",
+    "arch": "hdparm",
+    "baserpm": "hdparm",
+    "macosbrew": null
+}

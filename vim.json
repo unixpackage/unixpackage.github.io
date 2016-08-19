@@ -1,0 +1,6 @@
+{
+    "basedeb": "vim",
+    "arch": "vim",
+    "baserpm": "vim",
+    "macosbrew": "vim"
+}

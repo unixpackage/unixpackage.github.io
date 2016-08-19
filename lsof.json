@@ -1,0 +1,6 @@
+{
+    "basedeb": "lsof",
+    "arch": "lsof",
+    "baserpm": "lsof",
+    "macosbrew": null
+}

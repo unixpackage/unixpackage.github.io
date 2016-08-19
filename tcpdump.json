@@ -1,0 +1,6 @@
+{
+    "basedeb": "tcpdump",
+    "arch": "tcpdump",
+    "baserpm": "tcpdump",
+    "macosbrew": null
+}

@@ -1,0 +1,6 @@
+{
+    "basedeb": "iperf",
+    "arch": "iperf",
+    "baserpm": "iperf",
+    "macosbrew": "iperf"
+}

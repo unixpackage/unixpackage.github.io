@@ -1,0 +1,6 @@
+{
+    "basedeb": "tree",
+    "arch": "tree",
+    "baserpm": "tree",
+    "macosbrew": "tree"
+}

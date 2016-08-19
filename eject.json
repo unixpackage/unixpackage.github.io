@@ -1,0 +1,6 @@
+{
+    "basedeb": "eject",
+    "arch": "util-linux",
+    "baserpm": "eject",
+    "macosbrew": null
+}

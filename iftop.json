@@ -1,0 +1,6 @@
+{
+    "basedeb": "iftop",
+    "arch": "iftop",
+    "baserpm": "iftop",
+    "macosbrew": "iftop"
+}

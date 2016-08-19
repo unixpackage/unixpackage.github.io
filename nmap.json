@@ -1,0 +1,6 @@
+{
+    "basedeb": "nmap",
+    "arch": "nmap",
+    "baserpm": "nmap",
+    "macosbrew": "nmap"
+}
