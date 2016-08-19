@@ -1,0 +1,6 @@
+{
+    "basedeb": "elinks",
+    "arch": "elinks",
+    "baserpm": "elinks",
+    "macosbrew": "elinks"
+}
