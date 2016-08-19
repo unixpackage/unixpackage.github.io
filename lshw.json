@@ -1,0 +1,6 @@
+{
+    "basedeb": "lshw",
+    "arch": "lshw",
+    "baserpm": "lshw",
+    "macosbrew": "lshw"
+}
