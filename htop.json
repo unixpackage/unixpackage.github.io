@@ -1,0 +1,6 @@
+{
+    "basedeb": "htop",
+    "arch": "htop",
+    "baserpm": "htop",
+    "macosbrew": "htop"
+}
