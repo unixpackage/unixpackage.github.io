@@ -1,5 +1,6 @@
 {
     "basedeb": "telnet",
     "arch": "telnet",
-    "baserpm": "telnet"
+    "baserpm": "telnet",
+    "macosbrew": null
 }

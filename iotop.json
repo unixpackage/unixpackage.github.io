@@ -1,5 +1,6 @@
 {
     "basedeb": "iotop",
     "arch": "iotop",
-    "baserpm": "iotop"
+    "baserpm": "iotop",
+    "macosbrew": null
 }

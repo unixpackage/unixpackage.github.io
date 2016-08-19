@@ -1,5 +1,6 @@
 {
     "basedeb": "screen",
     "arch": "screen",
-    "baserpm": "screen"
+    "baserpm": "screen",
+    "macosbrew": null
 }
