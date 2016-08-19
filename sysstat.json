@@ -1,0 +1,5 @@
+{
+    "basedeb": "sysstat",
+    "arch": "sysstat",
+    "baserpm": "sysstat"
+}
