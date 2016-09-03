@@ -1,0 +1,6 @@
+{
+    "basedeb": "zsh",
+    "arch": "zsh",
+    "baserpm": "zsh",
+    "macosbrew": "zsh"
+}

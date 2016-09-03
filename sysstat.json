@@ -1,0 +1,6 @@
+{
+    "basedeb": "sysstat",
+    "arch": "sysstat",
+    "baserpm": "sysstat",
+    "macosbrew": null
+}

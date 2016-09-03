@@ -1,0 +1,6 @@
+{
+    "basedeb": "dnsutils",
+    "arch": "bind-tools",
+    "baserpm": "bind-utils",
+    "macosbrew": null
+}
