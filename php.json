@@ -1,0 +1,6 @@
+{
+    "basedeb": "php",
+    "arch": "php",
+    "baserpm": "php",
+    "macosbrew": null
+}
