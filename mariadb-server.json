@@ -1,0 +1,6 @@
+{
+    "basedeb": "mariadb-server",
+    "arch": "mariadb",
+    "baserpm": "mariadb",
+    "macosbrew": "mariadb"
+}
