@@ -1,0 +1,6 @@
+{
+    "basedeb": "nginx",
+    "arch": "nginx",
+    "baserpm": "nginx",
+    "macosbrew": "nginx"
+}
