@@ -1,0 +1,6 @@
+{
+    "basedeb": "sudo",
+    "arch": "sudo",
+    "baserpm": "sudo",
+    "macosbrew": null
+}
