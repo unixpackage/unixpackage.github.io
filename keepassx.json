@@ -1,0 +1,6 @@
+{
+    "basedeb": "keepassx",
+    "arch": "keepassx2",
+    "baserpm": "keepassx",
+    "macosbrew": null
+}
