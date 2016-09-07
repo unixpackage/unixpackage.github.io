@@ -1,0 +1,9 @@
+{
+    "basedeb": [
+        "vim-gtk",
+        "vim-gui-common"
+    ],
+    "arch": "gvim",
+    "baserpm": "vim-X11",
+    "macosbrew": "macvim"
+}
