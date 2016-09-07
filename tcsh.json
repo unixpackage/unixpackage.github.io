@@ -1,0 +1,6 @@
+{
+    "basedeb": "tcsh",
+    "arch": "tcsh",
+    "baserpm": "tcsh",
+    "macosbrew": "tcsh"
+}
