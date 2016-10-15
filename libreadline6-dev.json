@@ -2,5 +2,6 @@
     "basedeb": "libreadline6-dev",
     "arch": "readline",
     "baserpm": "readline-devel",
-    "macosbrew": "readline"
+    "macosbrew": "readline",
+    "ubuntu-yakkety": "libreadline-dev"
 }
