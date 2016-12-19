@@ -1,0 +1,6 @@
+{
+    "basedeb": "docker.io",
+    "arch": "docker",
+    "baserpm": "docker-engine",
+    "macosbrew": "docker"
+}
