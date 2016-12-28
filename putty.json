@@ -1,0 +1,6 @@
+{
+    "basedeb": "putty",
+    "arch": "putty",
+    "baserpm": "putty",
+    "macosbrew": "putty"
+}

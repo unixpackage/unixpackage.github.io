@@ -1,0 +1,6 @@
+{
+    "basedeb": "mariadb-client",
+    "arch": "mariadb-clients",
+    "baserpm": "mariadb-client",
+    "macosbrew": null
+}

@@ -1,0 +1,6 @@
+{
+    "basedeb": "xterm",
+    "arch": "xterm",
+    "baserpm": "xterm",
+    "macosbrew": null
+}

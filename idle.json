@@ -1,0 +1,6 @@
+{
+    "basedeb": "idle",
+    "arch": null,
+    "baserpm": "python-tools",
+    "macosbrew": null
+}

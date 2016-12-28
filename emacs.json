@@ -1,0 +1,6 @@
+{
+    "basedeb": "emacs",
+    "arch": "emacs",
+    "baserpm": "emacs",
+    "macosbrew": "emacs"
+}

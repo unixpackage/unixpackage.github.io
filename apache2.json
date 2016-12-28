@@ -1,0 +1,6 @@
+{
+    "basedeb": "apache2",
+    "arch": "apache",
+    "baserpm": "httpd",
+    "macosbrew": null
+}

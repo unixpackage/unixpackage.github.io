@@ -1,0 +1,6 @@
+{
+    "basedeb": "tmux",
+    "arch": "tmux",
+    "baserpm": "tmux",
+    "macosbrew": "tmux"
+}
