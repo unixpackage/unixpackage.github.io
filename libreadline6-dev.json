@@ -3,5 +3,6 @@
     "arch": "readline",
     "baserpm": "readline-devel",
     "macosbrew": "readline",
-    "ubuntu-yakkety": "libreadline-dev"
+    "ubuntu-yakkety": "libreadline-dev",
+    "ubuntu-zesty": "libreadline7"
 }

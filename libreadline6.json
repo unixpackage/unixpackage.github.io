@@ -2,5 +2,6 @@
     "basedeb": "libreadline6",
     "arch": "readline",
     "baserpm": "readline",
-    "macosbrew": "readline"
+    "macosbrew": "readline",
+    "ubuntu-zesty": "libreadline7"
 }
