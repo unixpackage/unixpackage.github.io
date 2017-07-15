@@ -1,0 +1,6 @@
+{
+    "basedeb": "postgresql",
+    "arch": "postgresql",
+    "baserpm": "postgresql",
+    "macosbrew": "postgresql"
+}

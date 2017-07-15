@@ -1,0 +1,6 @@
+{
+    "basedeb": "rxvt-unicode",
+    "arch": "rxvt-unicode",
+    "baserpm": "rxvt-unicode",
+    "macosbrew": null
+}

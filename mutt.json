@@ -1,0 +1,6 @@
+{
+    "basedeb": "mutt",
+    "arch": "mutt",
+    "baserpm": "mutt",
+    "macosbrew": "mutt"
+}

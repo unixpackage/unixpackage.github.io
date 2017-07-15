@@ -1,0 +1,6 @@
+{
+    "basedeb": "ksh",
+    "arch": null,
+    "baserpm": "ksh",
+    "macosbrew": "ksh"
+}

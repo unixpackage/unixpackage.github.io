@@ -1,0 +1,6 @@
+{
+    "basedeb": "terminator",
+    "arch": "terminator",
+    "baserpm": "terminator",
+    "macosbrew": null
+}

@@ -1,0 +1,6 @@
+{
+    "basedeb": "openssh-server",
+    "arch": "openssh",
+    "baserpm": "openssh-server",
+    "macosbrew": null
+}

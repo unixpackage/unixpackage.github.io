@@ -1,0 +1,6 @@
+{
+    "basedeb": "pidgin",
+    "arch": "pidgin",
+    "baserpm": "pidgin",
+    "macosbrew": "pidgin"
+}

@@ -1,0 +1,6 @@
+{
+    "basedeb": "bash",
+    "arch": "bash",
+    "baserpm": "bash",
+    "macosbrew": "bash"
+}

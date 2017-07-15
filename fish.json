@@ -1,0 +1,6 @@
+{
+    "basedeb": "fish",
+    "arch": "fish",
+    "baserpm": "fish",
+    "macosbrew": "fish"
+}

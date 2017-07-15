@@ -1,0 +1,6 @@
+{
+    "basedeb": "cmus",
+    "arch": "cmus",
+    "baserpm": null,
+    "macosbrew": "cmus"
+}
