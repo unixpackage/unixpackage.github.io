@@ -3,5 +3,6 @@
     "arch": "zeromq",
     "baserpm": "libzmq3",
     "macosbrew": "zeromq",
-    "ubuntu-yakkety": "libzmq5"
+    "ubuntu-yakkety": "libzmq5",
+    "ubuntu-zesty": "libzmq5"
 }
